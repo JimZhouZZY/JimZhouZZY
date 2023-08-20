@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jim Zhou(周支宇)
 - 👀 I’m interested in coding, music and badminton.
-- 🌱 I’m currently learning CS, CFD, LBM. 
+- 🌱 I’m currently learning AI, CS, CFD, LBM. 
 - 💞️ I’m looking to collaborate on CFD.
 - 📫 How to reach me: Email csd_189@163.com
 
