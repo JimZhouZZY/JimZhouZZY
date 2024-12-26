@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, music and badminton.
 - 🌱 I’m currently learning AI, CS, CFD, LBM. 
 - 💞️ I’m looking to collaborate on CFD, AI.
-- 📫 How to reach me: Email csd_189@163.com
+- 📫 How to reach me: Email jimzhouzzy@gmail.com
 
 <!---
 JimZhouZZY/JimZhouZZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
